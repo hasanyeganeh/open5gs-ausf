@@ -3,7 +3,7 @@ entries:
   open5gs-ausf:
   - apiVersion: v2
     appVersion: 2.4.11
-    created: "2023-11-10T08:23:47.601153239Z"
+    created: "2024-03-06T14:05:45.300725494Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -11,7 +11,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: 'Helm chart to deploy Open5gs AUSF service on Kubernetes. '
-    digest: d2c943b770f8d185c15946fa563a6cc9ccf31dce40a6c8df9c31806f6d166dbf
+    digest: d32ad73fad2627629303f475b2adff7d137a7b15a421d4e89b2cfaa1093b6c47
     home: https://github.com/gradiant/openverso-charts
     icon: https://open5gs.org/assets/img/open5gs-logo.png
     keywords:
@@ -25,4 +25,4 @@ entries:
     urls:
     - open5gs-ausf-2.1.0.tgz
     version: 2.1.0
-generated: "2023-11-10T08:23:47.59807932Z"
+generated: "2024-03-06T14:05:45.298421206Z"
